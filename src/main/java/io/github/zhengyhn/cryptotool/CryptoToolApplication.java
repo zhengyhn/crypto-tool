@@ -2,6 +2,8 @@ package io.github.zhengyhn.cryptotool;
 
 import io.github.zhengyhn.cryptotool.codec.CodecController;
 import io.github.zhengyhn.cryptotool.codec.CodecView;
+import io.github.zhengyhn.cryptotool.hashing.HashingController;
+import io.github.zhengyhn.cryptotool.hashing.HashingView;
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.control.TabPane;
@@ -15,6 +17,8 @@ public class CryptoToolApplication extends Application {
 
         CodecView codecView = new CodecController().getCodecView();
         tabPane.getTabs().add(codecView);
+        HashingView hashingView = new HashingController().getHashingView();
+        tabPane.getTabs().add(hashingView);
 
         VBox vBox = new VBox(tabPane);
         Scene scene = new Scene(vBox, 1080, 720);

@@ -2,239 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="afb418b6-c73f-4cb3-bb80-8f671fc47d47" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crypto-tool.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cryptotool.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/io/github/zhengyhn/cryptotool/CryptoToolApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/io/github/zhengyhn/cryptotool/codec/Base64Codec.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/io/github/zhengyhn/cryptotool/codec/CodecAlgorithm.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/io/github/zhengyhn/cryptotool/codec/CodecController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/io/github/zhengyhn/cryptotool/codec/CodecFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/io/github/zhengyhn/cryptotool/codec/CodecView.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/io/github/zhengyhn/cryptotool/codec/ICodec.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/io/github/zhengyhn/cryptotool/codec/Base64CodecTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/cryptotool/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="58" lean-forward="false" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CryptoToolApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/io/github/zhengyhn/cryptotool/CryptoToolApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CodecView.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/io/github/zhengyhn/cryptotool/codec/CodecView.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="33" column="41" lean-forward="false" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CodecAlgorithm.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/io/github/zhengyhn/cryptotool/codec/CodecAlgorithm.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#435#436#0" expanded="true" />
-                <element signature="e#467#468#0" expanded="true" />
-                <element signature="e#498#499#0" expanded="true" />
-                <element signature="e#525#526#0" expanded="true" />
-                <element signature="e#586#587#0" expanded="true" />
-                <element signature="e#625#626#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CodecController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/io/github/zhengyhn/cryptotool/codec/CodecController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-389">
-              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#673#674#0" expanded="true" />
-                <element signature="e#713#714#0" expanded="true" />
-                <element signature="e#770#771#0" expanded="true" />
-                <element signature="e#802#803#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Base64Codec.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/io/github/zhengyhn/cryptotool/codec/Base64Codec.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1305">
-              <caret line="87" column="0" lean-forward="false" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="330">
-                <caret line="22" column="8" lean-forward="false" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="7" lean-forward="false" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Base64CodecTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/io/github/zhengyhn/cryptotool/codec/Base64CodecTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="50" column="52" lean-forward="false" selection-start-line="50" selection-start-column="52" selection-end-line="50" selection-end-column="52" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StandardCharsets.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/nio/charset/StandardCharsets.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="34" column="19" lean-forward="false" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
-              <folding>
-                <element signature="e#0#1626#0" expanded="false" />
-                <element signature="e#554#555#0" expanded="false" />
-                <element signature="e#653#654#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit5 Test Class" />
         <option value="Enum" />
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>char</find>
-      <find>char[</find>
-      <find>resultBytes</find>
-      <find>maskIndex</find>
-      <find>temp</find>
-      <find>textAreaDecode</find>
-      <find>table</find>
-      <find>Encode</find>
-      <find>encode</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>encoded</replace>
-      <replace>maskBit</replace>
-      <replace>textAreaDecode</replace>
-      <replace>currentByte</replace>
-      <replace>textAreaEncode</replace>
-      <replace>encodeTable</replace>
-      <replace>Decode</replace>
-      <replace>decode</replace>
-    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GradleLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/cryptotool/src/main/java/io/github/zhengyhn/cryptotool/EncodeDecodeModel.java" />
-        <option value="$PROJECT_DIR$/cryptotool/src/main/java/io/github/zhengyhn/cryptotool/encoder/IEncoder.java" />
-        <option value="$PROJECT_DIR$/cryptotool/src/main/java/io/github/zhengyhn/cryptotool/EncodeDecodeController.java" />
-        <option value="$PROJECT_DIR$/cryptotool/src/main/java/io/github/zhengyhn/cryptotool/CryptoToolApplication.java" />
-        <option value="$PROJECT_DIR$/cryptotool/src/main/java/io/github/zhengyhn/cryptotool/encoder/Base64Encoder.java" />
-        <option value="$PROJECT_DIR$/cryptotool/src/test/java/io/github/zhengyhn/cryptotool/encoder/Base64EncoderTest.java" />
-        <option value="$PROJECT_DIR$/cryptotool/src/main/java/io/github/zhengyhn/cryptotool/encoder/AlgorithmType.java" />
-        <option value="$PROJECT_DIR$/cryptotool/src/main/java/io/github/zhengyhn/cryptotool/codec/AlgorithmType.java" />
-        <option value="$PROJECT_DIR$/cryptotool/src/main/java/io/github/zhengyhn/cryptotool/codec/CodecAlgorithmType.java" />
-        <option value="$PROJECT_DIR$/cryptotool/src/main/java/io/github/zhengyhn/cryptotool/EncodeDecodeView.java" />
-        <option value="$PROJECT_DIR$/cryptotool/src/main/java/io/github/zhengyhn/cryptotool/codec/encoder/ICodec.java" />
-        <option value="$PROJECT_DIR$/cryptotool/src/main/java/io/github/zhengyhn/cryptotool/codec/ICodec.java" />
-        <option value="$PROJECT_DIR$/cryptotool/src/main/java/io/github/zhengyhn/cryptotool/codec/CodecFactory.java" />
-        <option value="$PROJECT_DIR$/cryptotool/src/main/java/io/github/zhengyhn/cryptotool/CodecController.java" />
-        <option value="$PROJECT_DIR$/cryptotool/src/main/java/io/github/zhengyhn/cryptotool/CodecView.java" />
-        <option value="$PROJECT_DIR$/cryptotool/src/main/java/io/github/zhengyhn/cryptotool/codec/CodecView.java" />
-        <option value="$PROJECT_DIR$/cryptotool/src/main/java/io/github/zhengyhn/cryptotool/codec/CodecAlgorithm.java" />
-        <option value="$PROJECT_DIR$/cryptotool/src/test/java/io/github/zhengyhn/cryptotool/codec/encoder/Base64EncoderTest.java" />
-        <option value="$PROJECT_DIR$/cryptotool/src/test/java/io/github/zhengyhn/cryptotool/codec/Base64CodecTest.java" />
-        <option value="$PROJECT_DIR$/cryptotool/src/main/java/io/github/zhengyhn/cryptotool/codec/Base64Codec.java" />
-        <option value="$PROJECT_DIR$/cryptotool/src/main/java/io/github/zhengyhn/cryptotool/codec/CodecController.java" />
-        <option value="$PROJECT_DIR$/cryptotool/pom.xml" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-      </list>
-    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -250,418 +36,56 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="crypto-tool" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="crypto-tool" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Plugins" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginsNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="crypto-tool" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Plugins" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginsNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="jfx" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginNode" />
-        </PATH_ELEMENT>
-      </PATH>
-    </treeState>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1280" />
-    <option name="height" value="777" />
-  </component>
+  <component name="ProjectId" id="1XFouGeoQ25t80je8QoJ0TfgwfG" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages ProjectPane="false" />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages ProjectPane="true" />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="crypto-tool" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="crypto-tool" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="crypto-tool" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="crypto-tool" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="crypto-tool" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="crypto-tool" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/io/github/zhengyhn/cryptotool/hashing" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
       <recent name="io.github.zhengyhn.cryptotool.codec" />
       <recent name="io.github.zhengyhn.cryptotool.encoder" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="io.github.zhengyhn.cryptotool.codec" />
-    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="io.github.zhengyhn.cryptotool.hashing" />
+      <recent name="io.github.zhengyhn.cryptotool.codec" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/io/github/zhengyhn/cryptotool/hashing" />
       <recent name="$PROJECT_DIR$/cryptotool/src/main/java/io/github/zhengyhn/cryptotool/codec" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="io.github.zhengyhn.cryptotool.hashing" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.CryptoToolApplication">
-    <configuration default="false" name="CryptoToolApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="io.github.zhengyhn.cryptotool.codec.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="io.github.zhengyhn.cryptotool.CryptoToolApplication" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="cryptotool" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Base64EncoderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="io.github.zhengyhn.cryptotool.codec.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="cryptotool" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="io.github.zhengyhn.cryptotool.codec.encoder" />
-      <option name="MAIN_CLASS_NAME" value="io.github.zhengyhn.cryptotool.codec.encoder.Base64EncoderTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="Base64CodecTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="io.github.zhengyhn.cryptotool.codec.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="cryptotool" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="io.github.zhengyhn.cryptotool.codec" />
-      <option name="MAIN_CLASS_NAME" value="io.github.zhengyhn.cryptotool.codec.Base64CodecTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="Base64CodecTest.testDecodeNormalTextShouldSuccess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="io.github.zhengyhn.cryptotool.codec.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="cryptotool" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="io.github.zhengyhn.cryptotool.codec" />
-      <option name="MAIN_CLASS_NAME" value="io.github.zhengyhn.cryptotool.codec.Base64CodecTest" />
-      <option name="METHOD_NAME" value="testDecodeNormalTextShouldSuccess" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="Base64CodecTest.testDecodeRandomTextShouldReturnResultTheSameAsSunImplementation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="io.github.zhengyhn.cryptotool.codec.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="cryptotool" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="io.github.zhengyhn.cryptotool.codec" />
-      <option name="MAIN_CLASS_NAME" value="io.github.zhengyhn.cryptotool.codec.Base64CodecTest" />
-      <option name="METHOD_NAME" value="testDecodeRandomTextShouldReturnResultTheSameAsSunImplementation" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.Sha1Test.testChineseShouldDigestSuccess">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
-      <method />
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="INTERPRETER_PATH" value="" />
-      <option name="PROJECT_INTERPRETER" value="false" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
-      <method />
-    </configuration>
-    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="myFilePath" />
-      <option name="GLUE" />
-      <option name="myNameFilter" />
-      <option name="myGeneratedName" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list />
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <method />
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="JarApplication" factoryName="JAR Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SCRATCH_FILE_ID" value="0" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
@@ -678,67 +102,6 @@
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="crypto-tool" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile">
-      <makefile filename="" target="" workingDirectory="" arguments="">
-        <envs />
-      </makefile>
-      <method />
-    </configuration>
-    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
-      <MavenSettings>
-        <option name="myGeneralSettings" />
-        <option name="myRunnerSettings" />
-        <option name="myRunnerParameters">
-          <MavenRunnerParameters>
-            <option name="profiles">
-              <set />
-            </option>
-            <option name="goals">
-              <list />
-            </option>
-            <option name="profilesMap">
-              <map />
-            </option>
-            <option name="resolveToWorkspace" value="false" />
-            <option name="workingDirPath" value="" />
-          </MavenRunnerParameters>
-        </option>
-      </MavenSettings>
-      <method />
-    </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
       <method />
     </configuration>
     <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
@@ -779,40 +142,6 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-      <method />
-    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -827,12 +156,6 @@
       <scripts />
       <node-interpreter value="project" />
       <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
-      <method />
-    </configuration>
-    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
     <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
@@ -854,20 +177,166 @@
       <envs />
       <method />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.CryptoToolApplication" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.Base64EncoderTest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.Base64CodecTest" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.Base64CodecTest.testDecodeNormalTextShouldSuccess" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.Base64CodecTest.testDecodeRandomTextShouldReturnResultTheSameAsSunImplementation" />
+    <configuration name="CryptoToolApplication" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="io.github.zhengyhn.cryptotool.CryptoToolApplication" />
+      <module name="crypto-tool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.github.zhengyhn.cryptotool.hashing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sha1Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="crypto-tool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.github.zhengyhn.cryptotool.hashing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.github.zhengyhn.cryptotool.hashing" />
+      <option name="MAIN_CLASS_NAME" value="io.github.zhengyhn.cryptotool.hashing.Sha1Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sha1Test.testChineseShouldDigestSuccess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="crypto-tool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.github.zhengyhn.cryptotool.hashing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.github.zhengyhn.cryptotool.hashing" />
+      <option name="MAIN_CLASS_NAME" value="io.github.zhengyhn.cryptotool.hashing.Sha1Test" />
+      <option name="METHOD_NAME" value="testChineseShouldDigestSuccess" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sha1Test.testRandomTextShouldDigestSuccess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="crypto-tool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.github.zhengyhn.cryptotool.hashing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.github.zhengyhn.cryptotool.hashing" />
+      <option name="MAIN_CLASS_NAME" value="io.github.zhengyhn.cryptotool.hashing.Sha1Test" />
+      <option name="METHOD_NAME" value="testRandomTextShouldDigestSuccess" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sha1Test.testSimpleStringShouldEncodeSuccessfully" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="crypto-tool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.github.zhengyhn.cryptotool.hashing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="io.github.zhengyhn.cryptotool.hashing" />
+      <option name="MAIN_CLASS_NAME" value="io.github.zhengyhn.cryptotool.hashing.Sha1Test" />
+      <option name="METHOD_NAME" value="testSimpleStringShouldEncodeSuccessfully" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CryptoToolApplication" />
+      <item itemvalue="JUnit.Sha1Test.testSimpleStringShouldEncodeSuccessfully" />
+      <item itemvalue="JUnit.Sha1Test.testChineseShouldDigestSuccess" />
+      <item itemvalue="JUnit.Sha1Test.testRandomTextShouldDigestSuccess" />
+      <item itemvalue="JUnit.Sha1Test" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.CryptoToolApplication" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.Base64CodecTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.Base64CodecTest.testDecodeRandomTextShouldReturnResultTheSameAsSunImplementation" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.Base64CodecTest.testDecodeNormalTextShouldSuccess" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.Base64EncoderTest" />
+      <list>
+        <item itemvalue="JUnit.Sha1Test.testChineseShouldDigestSuccess" />
+        <item itemvalue="JUnit.Sha1Test" />
+        <item itemvalue="JUnit.Sha1Test.testSimpleStringShouldEncodeSuccessfully" />
+        <item itemvalue="JUnit.Sha1Test.testRandomTextShouldDigestSuccess" />
       </list>
     </recent_temporary>
   </component>
@@ -876,8 +345,8 @@
       <projects_view />
     </option>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -888,82 +357,102 @@
       <updated>1571579351950</updated>
       <workItem from="1571579353690" duration="6503000" />
       <workItem from="1572189495990" duration="3367000" />
-      <workItem from="1572746478852" duration="32760000" />
+      <workItem from="1572746478852" duration="33380000" />
+      <workItem from="1573373569060" duration="1292000" />
+      <workItem from="1576982855945" duration="650000" />
+      <workItem from="1580651430247" duration="2722000" />
+      <workItem from="1580815541728" duration="54164000" />
     </task>
     <servers />
-  </component>
-  <component name="TestHistory">
-    <history-entry file="Base64CodecTest - 2019.11.10 at 10h 40m 04s.xml">
-      <configuration name="Base64CodecTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Base64CodecTest - 2019.11.10 at 11h 22m 00s.xml">
-      <configuration name="Base64CodecTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Base64CodecTest_testDecodeRandomTextShouldReturnResultTheSameAsSunImplementation - 2019.11.10 at 10h 42m 52s.xml">
-      <configuration name="Base64CodecTest.testDecodeRandomTextShouldReturnResultTheSameAsSunImplementation" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Base64CodecTest_testDecodeRandomTextShouldReturnResultTheSameAsSunImplementation - 2019.11.10 at 10h 43m 01s.xml">
-      <configuration name="Base64CodecTest.testDecodeRandomTextShouldReturnResultTheSameAsSunImplementation" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Base64CodecTest_testDecodeRandomTextShouldReturnResultTheSameAsSunImplementation - 2019.11.10 at 10h 47m 46s.xml">
-      <configuration name="Base64CodecTest.testDecodeRandomTextShouldReturnResultTheSameAsSunImplementation" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Base64CodecTest_testDecodeRandomTextShouldReturnResultTheSameAsSunImplementation - 2019.11.10 at 10h 49m 01s.xml">
-      <configuration name="Base64CodecTest.testDecodeRandomTextShouldReturnResultTheSameAsSunImplementation" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Base64CodecTest_testDecodeRandomTextShouldReturnResultTheSameAsSunImplementation - 2019.11.10 at 11h 19m 26s.xml">
-      <configuration name="Base64CodecTest.testDecodeRandomTextShouldReturnResultTheSameAsSunImplementation" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Base64CodecTest_testDecodeRandomTextShouldReturnResultTheSameAsSunImplementation - 2019.11.10 at 11h 21m 09s.xml">
-      <configuration name="Base64CodecTest.testDecodeRandomTextShouldReturnResultTheSameAsSunImplementation" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Base64CodecTest_testDecodeRandomTextShouldReturnResultTheSameAsSunImplementation - 2019.11.10 at 11h 21m 47s.xml">
-      <configuration name="Base64CodecTest.testDecodeRandomTextShouldReturnResultTheSameAsSunImplementation" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Base64CodecTest_testDecodeRandomTextShouldReturnResultTheSameAsSunImplementation - 2019.11.10 at 11h 21m 54s.xml">
-      <configuration name="Base64CodecTest.testDecodeRandomTextShouldReturnResultTheSameAsSunImplementation" configurationId="JUnit" />
-    </history-entry>
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42630000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="777" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329927" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38394162" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329927" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25767368" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="WindowStateProjectService">
+    <state x="315" y="73" key="#CryptoToolApplication" timestamp="1580651516623">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="315" y="73" key="#CryptoToolApplication/0.23.1280.777@0.23.1280.777" timestamp="1580651516623" />
+    <state x="478" y="275" key="#com.intellij.debugger.actions.ViewTextAction" timestamp="1581930003809">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="478" y="275" key="#com.intellij.debugger.actions.ViewTextAction/0.23.1280.777@0.23.1280.777" timestamp="1581930003809" />
+    <state x="104" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582442508075">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="104" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.777@0.23.1280.777" timestamp="1582442508075" />
+    <state x="453" y="124" key="#com.intellij.ide.util.MemberChooser" timestamp="1581855572382">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="453" y="124" key="#com.intellij.ide.util.MemberChooser/0.23.1280.777@0.23.1280.777" timestamp="1581855572382" />
+    <state x="390" y="277" width="503" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1581855662594">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="390" y="277" width="503" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1280.777@0.23.1280.777" timestamp="1581855662594" />
+    <state x="266" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1581952688296">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="266" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1280.777@0.23.1280.777" timestamp="1581952688296" />
+    <state x="193" y="175" key="#org.jetbrains.debugger.memory.view.InstancesWindow" timestamp="1581930093274">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="193" y="175" key="#org.jetbrains.debugger.memory.view.InstancesWindow/0.23.1280.777@0.23.1280.777" timestamp="1581930093274" />
+    <state x="743" y="227" key="#xdebugger.evaluate" timestamp="1582439300668">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="743" y="227" key="#xdebugger.evaluate/0.23.1280.777@0.23.1280.777" timestamp="1582439300668" />
+    <state width="1238" height="228" key="GridCell.Tab.0.bottom" timestamp="1582442697877">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1280" height="162" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1580815494138" />
+    <state width="1238" height="228" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1582442697877" />
+    <state width="1238" height="228" key="GridCell.Tab.0.center" timestamp="1582442697874">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1280" height="162" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1580815494137" />
+    <state width="1238" height="228" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1582442697874" />
+    <state width="1238" height="228" key="GridCell.Tab.0.left" timestamp="1582442697873">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1280" height="162" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1580815494136" />
+    <state width="1238" height="228" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1582442697873" />
+    <state width="1238" height="228" key="GridCell.Tab.0.right" timestamp="1582442697875">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1280" height="162" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1580815494138" />
+    <state width="1238" height="228" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1582442697875" />
+    <state width="1238" height="244" key="GridCell.Tab.1.bottom" timestamp="1582440654833">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="244" key="GridCell.Tab.1.bottom/0.23.1280.777@0.23.1280.777" timestamp="1582440654833" />
+    <state width="1238" height="244" key="GridCell.Tab.1.center" timestamp="1582440654832">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="244" key="GridCell.Tab.1.center/0.23.1280.777@0.23.1280.777" timestamp="1582440654832" />
+    <state width="1238" height="244" key="GridCell.Tab.1.left" timestamp="1582440654831">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="244" key="GridCell.Tab.1.left/0.23.1280.777@0.23.1280.777" timestamp="1582440654831" />
+    <state width="1238" height="244" key="GridCell.Tab.1.right" timestamp="1582440654832">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1238" height="244" key="GridCell.Tab.1.right/0.23.1280.777@0.23.1280.777" timestamp="1582440654832" />
+    <state x="178" y="75" key="Maven.ArtifactSearchDialog" timestamp="1582037438345">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="178" y="75" key="Maven.ArtifactSearchDialog/0.23.1280.777@0.23.1280.777" timestamp="1582037438345" />
+    <state x="128" y="23" key="SettingsEditor" timestamp="1582442498393">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="128" y="23" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1582442498393" />
+    <state x="369" y="162" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1581841910741">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="369" y="162" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1280.777@0.23.1280.777" timestamp="1581841910741" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1582440512081">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.23.1280.777@0.23.1280.777" timestamp="1582440512081" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -971,521 +460,14 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/io/github/zhengyhn/cryptotool/codec/encoder/Base64Codec.java</url>
           <line>24</line>
-          <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/security/MessageDigest.java</url>
+          <line>364</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="10" />
     </breakpoint-manager>
-    <watches-manager />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="20" lean-forward="false" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/github/zhengyhn/cryptotool/CryptoToolApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/javafx-src.zip!/javafx/scene/control/TextArea.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5490">
-          <caret line="441" column="11" lean-forward="false" selection-start-line="441" selection-start-column="11" selection-end-line="441" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#24909#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#11227#11228#0" expanded="false" />
-            <element signature="e#11271#11272#0" expanded="false" />
-            <element signature="e#11312#11313#0" expanded="false" />
-            <element signature="e#11359#11360#0" expanded="false" />
-            <element signature="e#11771#11772#0" expanded="false" />
-            <element signature="e#11807#11808#0" expanded="false" />
-            <element signature="e#12700#12701#0" expanded="false" />
-            <element signature="e#12760#12761#0" expanded="false" />
-            <element signature="e#13002#13003#0" expanded="false" />
-            <element signature="e#13067#13068#0" expanded="false" />
-            <element signature="e#13309#13310#0" expanded="false" />
-            <element signature="e#13374#13375#0" expanded="false" />
-            <element signature="e#13421#13422#0" expanded="false" />
-            <element signature="e#13477#13478#0" expanded="false" />
-            <element signature="e#13997#13998#0" expanded="false" />
-            <element signature="e#14062#14063#0" expanded="false" />
-            <element signature="e#14142#14143#0" expanded="false" />
-            <element signature="e#14207#14208#0" expanded="false" />
-            <element signature="e#14273#14274#0" expanded="false" />
-            <element signature="e#14338#14339#0" expanded="false" />
-            <element signature="e#15168#15169#0" expanded="false" />
-            <element signature="e#15206#15207#0" expanded="false" />
-            <element signature="e#15268#15269#0" expanded="false" />
-            <element signature="e#15309#15310#0" expanded="false" />
-            <element signature="e#15909#15910#0" expanded="false" />
-            <element signature="e#15933#15934#0" expanded="false" />
-            <element signature="e#16541#16542#0" expanded="false" />
-            <element signature="e#16609#16610#0" expanded="false" />
-            <element signature="e#17312#17313#0" expanded="false" />
-            <element signature="e#17356#17357#0" expanded="false" />
-            <element signature="e#17401#17402#0" expanded="false" />
-            <element signature="e#17442#17443#0" expanded="false" />
-            <element signature="e#17517#17518#0" expanded="false" />
-            <element signature="e#17577#17578#0" expanded="false" />
-            <element signature="e#18535#18536#0" expanded="false" />
-            <element signature="e#18603#18604#0" expanded="false" />
-            <element signature="e#18656#18657#0" expanded="false" />
-            <element signature="e#18700#18701#0" expanded="false" />
-            <element signature="e#18753#18754#0" expanded="false" />
-            <element signature="e#18801#18802#0" expanded="false" />
-            <element signature="e#19787#19788#0" expanded="false" />
-            <element signature="e#19852#19853#0" expanded="false" />
-            <element signature="e#19905#19906#0" expanded="false" />
-            <element signature="e#19949#19950#0" expanded="false" />
-            <element signature="e#20002#20003#0" expanded="false" />
-            <element signature="e#20047#20048#0" expanded="false" />
-            <element signature="e#21612#21613#0" expanded="false" />
-            <element signature="e#21657#21658#0" expanded="false" />
-            <element signature="e#22473#22474#0" expanded="false" />
-            <element signature="e#22540#22541#0" expanded="false" />
-            <element signature="e#23059#23060#0" expanded="false" />
-            <element signature="e#23123#23124#0" expanded="false" />
-            <element signature="e#23623#23624#0" expanded="false" />
-            <element signature="e#23683#23684#0" expanded="false" />
-            <element signature="e#24861#24862#0" expanded="false" />
-            <element signature="e#24905#24906#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/github/zhengyhn/cryptotool/codec/CodecView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="20" lean-forward="false" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/javafx-src.zip!/javafx/scene/control/TextArea.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5490">
-          <caret line="441" column="11" lean-forward="false" selection-start-line="441" selection-start-column="11" selection-end-line="441" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#24909#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#11227#11228#0" expanded="false" />
-            <element signature="e#11271#11272#0" expanded="false" />
-            <element signature="e#11312#11313#0" expanded="false" />
-            <element signature="e#11359#11360#0" expanded="false" />
-            <element signature="e#11771#11772#0" expanded="false" />
-            <element signature="e#11807#11808#0" expanded="false" />
-            <element signature="e#12700#12701#0" expanded="false" />
-            <element signature="e#12760#12761#0" expanded="false" />
-            <element signature="e#13002#13003#0" expanded="false" />
-            <element signature="e#13067#13068#0" expanded="false" />
-            <element signature="e#13309#13310#0" expanded="false" />
-            <element signature="e#13374#13375#0" expanded="false" />
-            <element signature="e#13421#13422#0" expanded="false" />
-            <element signature="e#13477#13478#0" expanded="false" />
-            <element signature="e#13997#13998#0" expanded="false" />
-            <element signature="e#14062#14063#0" expanded="false" />
-            <element signature="e#14142#14143#0" expanded="false" />
-            <element signature="e#14207#14208#0" expanded="false" />
-            <element signature="e#14273#14274#0" expanded="false" />
-            <element signature="e#14338#14339#0" expanded="false" />
-            <element signature="e#15168#15169#0" expanded="false" />
-            <element signature="e#15206#15207#0" expanded="false" />
-            <element signature="e#15268#15269#0" expanded="false" />
-            <element signature="e#15309#15310#0" expanded="false" />
-            <element signature="e#15909#15910#0" expanded="false" />
-            <element signature="e#15933#15934#0" expanded="false" />
-            <element signature="e#16541#16542#0" expanded="false" />
-            <element signature="e#16609#16610#0" expanded="false" />
-            <element signature="e#17312#17313#0" expanded="false" />
-            <element signature="e#17356#17357#0" expanded="false" />
-            <element signature="e#17401#17402#0" expanded="false" />
-            <element signature="e#17442#17443#0" expanded="false" />
-            <element signature="e#17517#17518#0" expanded="false" />
-            <element signature="e#17577#17578#0" expanded="false" />
-            <element signature="e#18535#18536#0" expanded="false" />
-            <element signature="e#18603#18604#0" expanded="false" />
-            <element signature="e#18656#18657#0" expanded="false" />
-            <element signature="e#18700#18701#0" expanded="false" />
-            <element signature="e#18753#18754#0" expanded="false" />
-            <element signature="e#18801#18802#0" expanded="false" />
-            <element signature="e#19787#19788#0" expanded="false" />
-            <element signature="e#19852#19853#0" expanded="false" />
-            <element signature="e#19905#19906#0" expanded="false" />
-            <element signature="e#19949#19950#0" expanded="false" />
-            <element signature="e#20002#20003#0" expanded="false" />
-            <element signature="e#20047#20048#0" expanded="false" />
-            <element signature="e#21612#21613#0" expanded="false" />
-            <element signature="e#21657#21658#0" expanded="false" />
-            <element signature="e#22473#22474#0" expanded="false" />
-            <element signature="e#22540#22541#0" expanded="false" />
-            <element signature="e#23059#23060#0" expanded="false" />
-            <element signature="e#23123#23124#0" expanded="false" />
-            <element signature="e#23623#23624#0" expanded="false" />
-            <element signature="e#23683#23684#0" expanded="false" />
-            <element signature="e#24861#24862#0" expanded="false" />
-            <element signature="e#24905#24906#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/github/zhengyhn/cryptotool/CryptoToolApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="24" column="28" lean-forward="false" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/javafx-src.zip!/javafx/scene/control/TextArea.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5490">
-          <caret line="441" column="11" lean-forward="false" selection-start-line="441" selection-start-column="11" selection-end-line="441" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#24909#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#11227#11228#0" expanded="false" />
-            <element signature="e#11271#11272#0" expanded="false" />
-            <element signature="e#11312#11313#0" expanded="false" />
-            <element signature="e#11359#11360#0" expanded="false" />
-            <element signature="e#11771#11772#0" expanded="false" />
-            <element signature="e#11807#11808#0" expanded="false" />
-            <element signature="e#12700#12701#0" expanded="false" />
-            <element signature="e#12760#12761#0" expanded="false" />
-            <element signature="e#13002#13003#0" expanded="false" />
-            <element signature="e#13067#13068#0" expanded="false" />
-            <element signature="e#13309#13310#0" expanded="false" />
-            <element signature="e#13374#13375#0" expanded="false" />
-            <element signature="e#13421#13422#0" expanded="false" />
-            <element signature="e#13477#13478#0" expanded="false" />
-            <element signature="e#13997#13998#0" expanded="false" />
-            <element signature="e#14062#14063#0" expanded="false" />
-            <element signature="e#14142#14143#0" expanded="false" />
-            <element signature="e#14207#14208#0" expanded="false" />
-            <element signature="e#14273#14274#0" expanded="false" />
-            <element signature="e#14338#14339#0" expanded="false" />
-            <element signature="e#15168#15169#0" expanded="false" />
-            <element signature="e#15206#15207#0" expanded="false" />
-            <element signature="e#15268#15269#0" expanded="false" />
-            <element signature="e#15309#15310#0" expanded="false" />
-            <element signature="e#15909#15910#0" expanded="false" />
-            <element signature="e#15933#15934#0" expanded="false" />
-            <element signature="e#16541#16542#0" expanded="false" />
-            <element signature="e#16609#16610#0" expanded="false" />
-            <element signature="e#17312#17313#0" expanded="false" />
-            <element signature="e#17356#17357#0" expanded="false" />
-            <element signature="e#17401#17402#0" expanded="false" />
-            <element signature="e#17442#17443#0" expanded="false" />
-            <element signature="e#17517#17518#0" expanded="false" />
-            <element signature="e#17577#17578#0" expanded="false" />
-            <element signature="e#18535#18536#0" expanded="false" />
-            <element signature="e#18603#18604#0" expanded="false" />
-            <element signature="e#18656#18657#0" expanded="false" />
-            <element signature="e#18700#18701#0" expanded="false" />
-            <element signature="e#18753#18754#0" expanded="false" />
-            <element signature="e#18801#18802#0" expanded="false" />
-            <element signature="e#19787#19788#0" expanded="false" />
-            <element signature="e#19852#19853#0" expanded="false" />
-            <element signature="e#19905#19906#0" expanded="false" />
-            <element signature="e#19949#19950#0" expanded="false" />
-            <element signature="e#20002#20003#0" expanded="false" />
-            <element signature="e#20047#20048#0" expanded="false" />
-            <element signature="e#21612#21613#0" expanded="false" />
-            <element signature="e#21657#21658#0" expanded="false" />
-            <element signature="e#22473#22474#0" expanded="false" />
-            <element signature="e#22540#22541#0" expanded="false" />
-            <element signature="e#23059#23060#0" expanded="false" />
-            <element signature="e#23123#23124#0" expanded="false" />
-            <element signature="e#23623#23624#0" expanded="false" />
-            <element signature="e#23683#23684#0" expanded="false" />
-            <element signature="e#24861#24862#0" expanded="false" />
-            <element signature="e#24905#24906#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="594" column="18" lean-forward="false" selection-start-line="594" selection-start-column="18" selection-end-line="594" selection-end-column="18" />
-          <folding>
-            <element signature="e#18445#18446#0" expanded="false" />
-            <element signature="e#18498#18499#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cryptotool/src/main/java/io/github/zhengyhn/cryptotool/codec/encoder/Base64Codec.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="28" lean-forward="false" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cryptotool/src/main/java/io/github/zhengyhn/cryptotool/codec/encoder/ICodec.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/github/zhengyhn/cryptotool/codec/CodecFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/github/zhengyhn/cryptotool/codec/ICodec.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/github/zhengyhn/cryptotool/codec/CodecAlgorithm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#435#436#0" expanded="true" />
-            <element signature="e#467#468#0" expanded="true" />
-            <element signature="e#498#499#0" expanded="true" />
-            <element signature="e#525#526#0" expanded="true" />
-            <element signature="e#586#587#0" expanded="true" />
-            <element signature="e#625#626#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/src.zip!/java/nio/charset/StandardCharsets.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="34" column="19" lean-forward="false" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#1626#0" expanded="false" />
-            <element signature="e#554#555#0" expanded="false" />
-            <element signature="e#653#654#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cryptotool/src/test/java/io/github/zhengyhn/cryptotool/codec/encoder/Base64EncoderTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/github/zhengyhn/cryptotool/CryptoToolApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cryptotool/src/main/java/io/github/zhengyhn/cryptotool/codec/CodecModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/github/zhengyhn/cryptotool/codec/CodecView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="33" column="41" lean-forward="false" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/github/zhengyhn/cryptotool/codec/CodecController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-389">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#673#674#0" expanded="true" />
-            <element signature="e#713#714#0" expanded="true" />
-            <element signature="e#770#771#0" expanded="true" />
-            <element signature="e#802#803#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/CharacterEncoder.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="31" column="32" lean-forward="false" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/io/github/zhengyhn/cryptotool/codec/Base64CodecTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="50" column="52" lean-forward="false" selection-start-line="50" selection-start-column="52" selection-end-line="50" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/github/zhengyhn/cryptotool/codec/Base64Codec.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1305">
-          <caret line="87" column="0" lean-forward="false" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="58" lean-forward="false" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="330">
-            <caret line="22" column="8" lean-forward="false" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="7" lean-forward="false" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>crypto-tool</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Maven: org.projectlombok:lombok:1.18.10</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

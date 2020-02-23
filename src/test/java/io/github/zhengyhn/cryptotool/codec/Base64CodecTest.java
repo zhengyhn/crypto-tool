@@ -1,10 +1,9 @@
 package io.github.zhengyhn.cryptotool.codec;
 
 import org.junit.Test;
-import sun.misc.BASE64Decoder;
-import sun.misc.BASE64Encoder;
 
 import java.io.IOException;
+import java.util.Base64;
 
 import static org.junit.Assert.*;
 
@@ -48,7 +47,7 @@ public class Base64CodecTest {
     public void testEncodeRandomTextShouldReturnResultTheSameAsSunImplementation() {
         String text = "sldfjlsdfjslfjlsdfjoewirunvc,nxvo293420-;ajlvgufe9w";
         String result = new Base64Codec().encode(text);
-        String sunResult = new BASE64Encoder().encode(text.getBytes());
+        String sunResult = new String(Base64.getEncoder().encode(text.getBytes()));
         assertEquals(result, sunResult);
     }
 
@@ -93,8 +92,8 @@ public class Base64CodecTest {
         String result = new Base64Codec().decode(text);
         String sunResult = "";
         try {
-             sunResult = new String(new BASE64Decoder().decodeBuffer(text));
-        } catch (IOException e) {
+             sunResult = new String(Base64.getDecoder().decode(text.getBytes()));
+        } catch (Exception e) {
             e.printStackTrace();
         }
         assertEquals(result, sunResult);
