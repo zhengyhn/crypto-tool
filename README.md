@@ -4,6 +4,8 @@ Reinvent the wheel.
 
 Write crypto algorithm by myself.
 
+![screenshot](screenshots/sha1.png)
+
 ## How to use
 
 ```bash
@@ -18,6 +20,7 @@ This will install the application.
 
 This is a simple javaFx GUI application
 
-## Algorithm
+## Implemented Algorithms
 
 - Base64
+- SHA1
